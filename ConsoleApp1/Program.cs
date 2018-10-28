@@ -95,7 +95,7 @@ namespace ConsoleApp1
                     }
                 }
 
-                Show();//s
+                Show();
             }
         }
 
